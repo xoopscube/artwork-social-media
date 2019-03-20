@@ -32,7 +32,7 @@ Social networks are now so well established. It's often a strategy of marketing 
 
 + 4Chan: 22 million
 + Airbnb: 150 million users
-+ Ello:
++ Ello:  1 million
 + Facebook: 2.320 billion users
 + Flickr: 90 million users
 + Google+: 111 million users (shutdown april 2019)
