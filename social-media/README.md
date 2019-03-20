@@ -35,15 +35,15 @@ Social networks are now so well established. It's often a strategy of marketing 
 + Ello:  1 million
 + Facebook: 2.320 billion users
 + Flickr: 90 million users
-+ Google+: 111 million users (shutdown april 2019)
++ Google+: 111 million users ( shutdown april 2019 )
 + Instagram: 1bn users
 + LinkedIn: 610 million users
 + MySpace: 15 million users
 + Periscope: 10 million users
 + Pinterest: 250 million users
-+ Reddit: 542 million users (330+ million average monthly active users)
++ Reddit: 542 million users ( 330+ million average monthly active users )
 + Snapchat: 186 million daily users
-+ Tumblr:
++ Tumblr: 437 million visited ( january 2019 vs 642 million visitors in July 2018, lost 30 percent since December 2018 )
 + Twitter: 326 million users
 + Wechat: 1.12 billion users
 + Weibo: 600 million users
