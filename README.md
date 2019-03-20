@@ -1,5 +1,5 @@
-# artworks
-XCL's Artwork Repository
+# Artworks and Social Media Platforms
+
 
 🗂 icons ...................... [ nodejs generator for iconify ]
 
