@@ -37,6 +37,7 @@ Social networks are now so well established. It's often a strategy of marketing 
 + Flickr: 90 million users
 + Google+: 111 million users ( shutdown april 2019 )
 + Instagram: 1bn users
++ LINE: 600 million users registered ( 194 million active users )
 + LinkedIn: 610 million users
 + MySpace: 15 million users
 + Periscope: 10 million users
