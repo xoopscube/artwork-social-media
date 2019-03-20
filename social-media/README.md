@@ -28,7 +28,7 @@ Social networks are now so well established. It's often a strategy of marketing 
 + Facebook Messenger and Whatsapp handle 60 billion messages a day
 + When asked 81% of teenagers felt social media has a positive effect on their lives
 
-### Users
+### Users per platform ( not active users )
 
 + 4Chan: 22 million
 + Airbnb: 150 million users
@@ -41,7 +41,7 @@ Social networks are now so well established. It's often a strategy of marketing 
 + MySpace: 15 million users
 + Periscope: 10 million users
 + Pinterest: 250 million users
-+ Reddit: 542 million users
++ Reddit: 542 million users (330+ million average monthly active users)
 + Snapchat: 186 million daily users
 + Tumblr:
 + Twitter: 326 million users
