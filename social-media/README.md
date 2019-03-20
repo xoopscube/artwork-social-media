@@ -2,7 +2,7 @@
 
 ### Guidelines 2019
 
-A project might require you to set a social media presence. If this is rquired by the project, business, brand or personal profiles, it’s necessary to optimize the **Graphical Identity** with the best image sizes for each social media platform.
+A project might require you to set a social media presence. If this is required by the project, business, brand or personal profiles, it’s necessary to optimize the **Graphical Identity** with the best image sizes for each social media platform.
 
 * The social media platforms change constantly their formats. 
 * This repository should help to keep your project up-to-date.
