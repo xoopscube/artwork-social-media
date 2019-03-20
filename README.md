@@ -10,6 +10,6 @@ XCL's Artwork Repository
 🗂 modules ............... [ rebranding / white label ]
 
 🗂 social-media ....... [ rebranding / white label ]
-Social Media Platforms Optimized Image Sizes 2019
+Social Media Platforms Statistics, Guidelines and development 2019
 
 🗂 xcl-mascot
